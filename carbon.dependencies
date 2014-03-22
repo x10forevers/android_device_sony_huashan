@@ -7,19 +7,19 @@
   },
   {
     "remote": "cm",
-    "repository": "android_device_sony_qcom-common",
+    "repository": "CyanogenMod/android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_kernel_sony_msm8960t",
+    "repository": "CyanogenMod/android_kernel_sony_msm8960t",
     "target_path": "kernel/sony/msm8960t",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_hardware_sony_DASH",
+    "repository": "CyanogenMod/android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
     "revision": "cm-11.0"
   }
